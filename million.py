@@ -1,1 +1,1 @@
-print("hello this mt second Git code version")
+print("hello this my second Git code version")
